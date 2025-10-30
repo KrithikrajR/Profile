@@ -1,8 +1,8 @@
-🌐 Personal Portfolio – Krithik Raj
+**🌐 Personal Portfolio – Krithik Raj**
 
 This project is a responsive personal profile webpage built using HTML, CSS, and JavaScript. It provides a clean, modern design that introduces Krithik Raj, showcasing his educational background, technical interests, and professional links (LinkedIn, GitHub, LeetCode, HackerRank).
 
-✨ Features
+**✨ Features**
 
  -🎨 Stylish black-themed UI with smooth animations
 
@@ -16,7 +16,7 @@ This project is a responsive personal profile webpage built using HTML, CSS, and
 
  - 💫 CSS animations for a smooth, engaging user experience
 
-🛠️ Technologies Used
+**🛠️ Technologies Used**
 
 HTML5 – For structure and content
 
@@ -24,7 +24,7 @@ CSS3 – For layout, animations, and styling
 
 JavaScript (Vanilla JS) – For toggling the “About Me” section dynamically
 
-📂 Project Structure
+**📂 Project Structure**
 profile/
 │
 ├── index.html        # Main webpage
@@ -32,7 +32,7 @@ profile/
 │   └── profile.jpg   # Profile picture (replace with your image)
 └── README.md         # Project documentation
 
-⚙️ How It Works
+**⚙️ How It Works**
 
 -The page loads with your name, profile picture, and clickable boxes (About, LinkedIn, GitHub, LeetCode, HackerRank).
 
@@ -40,7 +40,7 @@ profile/
 
 -Clicking your name hides the About section and restores the main menu.
 
-🧩 How to Use
+**🧩 How to Use**
 
 **1.Clone the repository**
 
@@ -54,11 +54,11 @@ cd profile-page
 
 **4.Replace the image src="#link" with the path to your actual profile picture**
 
-📸 Preview
+**📸 Preview**
 
 -A sleek personal webpage that serves as an interactive digital portfolio for Krithik Raj.
 
-🧠 Future Enhancements
+**🧠 Future Enhancements**
 
 -Add a contact form or resume download button
 
