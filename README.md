@@ -50,8 +50,8 @@ cd profile-page
 
 **2.Open the index.html file in your browser**
 
-**3.Replace #link placeholders with your real social media or portfolio URLs
-**
+**3.Replace #link placeholders with your real social media or portfolio URLs**
+
 **4.Replace the image src="#link" with the path to your actual profile picture**
 
 📸 Preview
