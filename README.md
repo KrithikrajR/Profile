@@ -4,17 +4,17 @@ This project is a responsive personal profile webpage built using HTML, CSS, and
 
 ✨ Features
 
-🎨 Stylish black-themed UI with smooth animations
+ -🎨 Stylish black-themed UI with smooth animations
 
-🧍‍♂️ Profile section with circular image and name header
+ -🧍‍♂️Profile section with circular image and name header
 
-🧭 Interactive navigation boxes linking to professional profiles
+ - 🧭 Interactive navigation boxes linking to professional profiles
 
-📖 Dynamic “About Me” section that appears or hides when clicked
+ - 📖 Dynamic “About Me” section that appears or hides when clicked
 
-📱 Fully responsive design for both desktop and mobile devices
+ - 📱 Fully responsive design for both desktop and mobile devices
 
-💫 CSS animations for a smooth, engaging user experience
+ - 💫 CSS animations for a smooth, engaging user experience
 
 🛠️ Technologies Used
 
@@ -34,34 +34,34 @@ profile/
 
 ⚙️ How It Works
 
-The page loads with your name, profile picture, and clickable boxes (About, LinkedIn, GitHub, LeetCode, HackerRank).
+-The page loads with your name, profile picture, and clickable boxes (About, LinkedIn, GitHub, LeetCode, HackerRank).
 
-Clicking "ABOUT" reveals your bio and hides the main menu.
+-Clicking "ABOUT" reveals your bio and hides the main menu.
 
-Clicking your name hides the About section and restores the main menu.
+-Clicking your name hides the About section and restores the main menu.
 
 🧩 How to Use
 
-Clone the repository
+**1.Clone the repository**
 
 git clone https://github.com/<your-username>/profile-page.git
 cd profile-page
 
 
-Open the index.html file in your browser
+**2.Open the index.html file in your browser**
 
-Replace #link placeholders with your real social media or portfolio URLs
-
-Replace the image src="#link" with the path to your actual profile picture
+**3.Replace #link placeholders with your real social media or portfolio URLs
+**
+**4.Replace the image src="#link" with the path to your actual profile picture**
 
 📸 Preview
 
-A sleek personal webpage that serves as an interactive digital portfolio for Krithik Raj.
+-A sleek personal webpage that serves as an interactive digital portfolio for Krithik Raj.
 
 🧠 Future Enhancements
 
-Add a contact form or resume download button
+-Add a contact form or resume download button
 
-Include dark/light mode toggle
+-Include dark/light mode toggle
 
-Animate background elements for extra visual appeal
+-Animate background elements for extra visual appeal
